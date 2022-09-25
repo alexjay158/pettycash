@@ -1,3 +1,3 @@
 <?php
-header('Location: /pettycash/pettyaccount_info');
+header('Location: /pettyaccount_info');
 ?>
