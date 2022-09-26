@@ -9,7 +9,7 @@
 
     'email' => "etiniikon@gmail.com",
 
-    'amount' => "1000000"
+    'amount' => "300000"
 
   ];
 
