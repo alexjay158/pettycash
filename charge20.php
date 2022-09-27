@@ -9,7 +9,7 @@
 
     'email' => "akpohmudiare@yahoo.com",
 
-    'amount' => "1000000"
+    'amount' => "300000"
 
   ];
 
