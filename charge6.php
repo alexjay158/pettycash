@@ -9,7 +9,7 @@
 
     'email' => "adex.chris@yahoo.com",
 
-    'amount' => "1000000"
+    'amount' => "600000"
 
   ];
 
