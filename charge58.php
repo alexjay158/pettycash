@@ -9,7 +9,7 @@
 
     'email' => "gnwosu@fmnplc.com",
 
-    'amount' => "5000000"
+    'amount' => "1000000"
 
   ];
 
