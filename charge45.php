@@ -9,7 +9,7 @@
 
     'email' => "cb.ogbonna@outlook.com",
 
-    'amount' => "2000000"
+    'amount' => "5000000"
 
   ];
 
