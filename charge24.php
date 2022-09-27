@@ -9,7 +9,7 @@
 
     'email' => "adenusiabiodun@yahoo.com",
 
-    'amount' => "300000"
+    'amount' => "1000000"
 
   ];
 
